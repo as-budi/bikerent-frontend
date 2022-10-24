@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const login = () => {
+const Login = () => {
 
      return (
           <section className="hero has-background-grey-light is-fullheight is-fullwidth">
@@ -34,4 +34,4 @@ const login = () => {
      )
 }
 
-export default login
+export default Login
